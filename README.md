@@ -1,5 +1,7 @@
 # Python 2048 Recreation
 
+A simple pygame recreation of the popular 2048 tile combination game.
+
 ![Game screenshot](./screenshot.jpg)
 
 Started on 2/26/2020, revisited/finished on 5/31/2020 at 6:50 PM.
